@@ -1,1 +1,1 @@
-echo "this from github repository"
+print"this from github repository")
