@@ -1,2 +1,1 @@
-prt scr
-hi
+echo "this from github repository"
